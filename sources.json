@@ -1,0 +1,28 @@
+{
+    "News": [
+        {
+            "Name": "Times Of India top stories",
+            "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+        },
+        {
+            "Name": "Times Of India most recent",
+            "url": "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms"
+        }
+    ],
+    "Tech": [
+        {
+            "Name": "Nasa",
+            "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+        },
+        {
+            "Name": "Planet Python",
+            "url": "https://planetpython.org/rss20.xml"
+        }
+    ],
+    "World News": [
+        {
+            "Name": "WSJ",
+            "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+        }
+    ]
+}
